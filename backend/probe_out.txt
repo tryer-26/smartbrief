@@ -1,0 +1,11 @@
+SqliteSaver: NOT importable -> ModuleNotFoundError: No module named 'langgraph.checkpoint.sqlite'
+MemorySaver: importable
+get_tuple -> True
+list type -> <class 'generator'>
+list len -> 3
+tuple0 -> <class 'langgraph.checkpoint.base.CheckpointTuple'> / fields=5
+  part0 type=<class 'dict'> head={'configurable': {'thread_id': 'probe_1', 'checkpoint_ns': '', 'checkpoint_id': '1f1a6dca-e274-66d4-8001-e2af07541be7'}}
+  part1 type=<class 'dict'> head={'v': 4, 'ts': '2026-09-02T14:43:37.002149+00:00', 'id': '1f1a6dca-e274-66d4-8001-e2af07541be7', 'channel_versions': {'_
+  part2 type=<class 'dict'> head={'source': 'loop', 'step': 1, 'parents': {}}
+  part3 type=<class 'dict'> head={'configurable': {'thread_id': 'probe_1', 'checkpoint_ns': '', 'checkpoint_id': '1f1a6dca-e270-6534-8000-a3b10a7cb0c9'}}
+  part4 type=<class 'list'> head=[]
